@@ -2,6 +2,7 @@
 #include <uWS/uWS.h>
 #include <chrono>
 #include <iostream>
+#include <clingo.hh>
 #include <thread>
 #include "Eigen-3.3/Eigen/Core"
 #include "Eigen-3.3/Eigen/QR"
